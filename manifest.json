@@ -1,0 +1,34 @@
+{"name": "Emoji Silici",
+"version": "1.0",
+
+"description": "Sectiginiz kisimdaki emojileri otomatik olarak siler, yeni sekmede acar veya panoya kopyalar",
+"manifest_version": 3,
+"background": {
+    "service_worker": "background.js"
+    
+    
+  },
+  
+"author": "Mertcan Yasar",
+"action":{
+    "default_popup": "index.html",
+    "default_title": "Emoji Silici"
+},
+"permissions": [ "clipboardWrite",
+"activeTab",
+"scripting",
+"clipboardRead",
+"contextMenus",
+"tabs"
+ ],
+ "icons": {
+    "16": "saluting-face.png",
+    "48": "saluting-face.png",
+    "128": "saluting-face.png"
+  }
+
+
+
+
+
+}
