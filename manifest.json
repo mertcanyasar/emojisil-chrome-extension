@@ -16,10 +16,8 @@
 },
 "permissions": [ "clipboardWrite",
 "activeTab",
-"scripting",
 "clipboardRead",
-"contextMenus",
-"tabs"
+"contextMenus"
  ],
  "icons": {
     "16": "saluting-face.png",
