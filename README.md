@@ -15,8 +15,8 @@ A Chrome extension that automatically removes emojis from selected text, opens t
 
 INSTALLATION: To install, go to chrome>settings>extensions. Click developer mode from the top right, then click load unpacked. Upload this file and start using it.
 
-![](https://github.com/mertcanyasar/emojisil-chrome-extension/blob/main/1.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUxODBnZHJ6eDF4bmRscnhnaGxmZGptZTd3MTVndnJuNGk5c2FhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mF10ghTTZSMjoSt91/giphy.gif)
 
-![](https://github.com/mertcanyasar/emojisil-chrome-extension/blob/main/2.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXQzenlrbHBrdjdlenl4YXdmcnNrNmJxNHo1YTM2c3lteWJqbTR5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9HxB9hYoY7ucIWU6bB/giphy.gif)
 
-![](https://github.com/mertcanyasar/emojisil-chrome-extension/blob/main/3.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3phOWg3dGNraHplc2FnZzBqajZlN2RsbTgxOGE3aXl3bW80Z2Z3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLucy3yonxpDaE477y/giphy.gif)
