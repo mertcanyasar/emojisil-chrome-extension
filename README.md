@@ -14,9 +14,14 @@ A Chrome extension that automatically removes emojis from selected text, opens t
 "After selecting the text, you can delete the emojis and open them in a new tab automatically by right-clicking and selecting 'emojileri sil ve yeni sekmede ac'." Alternatively, you can click on the extension, paste the copied text, see the text that emojis removed from, go to the link if it is a link, and copy it to the clipboard.
 
 INSTALLATION: To install, go to chrome>settings>extensions. Click developer mode from the top right, then click load unpacked. Upload this file and start using it.
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUxODBnZHJ6eDF4bmRscnhnaGxmZGptZTd3MTVndnJuNGk5c2FhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mF10ghTTZSMjoSt91/giphy.gif" alt="Pirate Zombies Download Link"></img>
+</p>
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUxODBnZHJ6eDF4bmRscnhnaGxmZGptZTd3MTVndnJuNGk5c2FhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mF10ghTTZSMjoSt91/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXQzenlrbHBrdjdlenl4YXdmcnNrNmJxNHo1YTM2c3lteWJqbTR5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9HxB9hYoY7ucIWU6bB/giphy.gif" alt="Pirate Zombies Download Link"></img>
+</p>
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXQzenlrbHBrdjdlenl4YXdmcnNrNmJxNHo1YTM2c3lteWJqbTR5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9HxB9hYoY7ucIWU6bB/giphy.gif)
-
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3phOWg3dGNraHplc2FnZzBqajZlN2RsbTgxOGE3aXl3bW80Z2Z3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLucy3yonxpDaE477y/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3phOWg3dGNraHplc2FnZzBqajZlN2RsbTgxOGE3aXl3bW80Z2Z3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLucy3yonxpDaE477y/giphy.gif" alt="Pirate Zombies Download Link"></img>
+</p>
