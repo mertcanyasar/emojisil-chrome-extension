@@ -1,4 +1,7 @@
 # emojisil
+
+[Emojisil Chrome Extension](https://chromewebstore.google.com/detail/emoji-silici/ijfkamfnohjihhebmalbkkcgogmlkgdn)
+
 TR
 
 Sectiginiz metindeki emojileri otomatik olarak silen, yeni sekmede acan veya panoya kopyalan bir chrome uzantisi
