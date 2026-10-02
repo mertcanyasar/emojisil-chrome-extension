@@ -1,44 +1,34 @@
+const input = document.getElementById("myInput");
+const output = document.getElementById("myP");
+
 document.getElementById("deletorButton").addEventListener("click", toDelete);
 document.getElementById("copyToClipboardButton").addEventListener("click", copyToClipboard);
 
+function toDelete() {
+  const text = removeEmojis(input.value);
+  const url = toUrl(text);
 
-
-
-
-
-
-function toDelete(){
-    
-    let link = document.getElementById("myInput").value;
-    let kelime="";
-for(let i=0;i<link.length;i++){
-    if(link.charCodeAt(i)>32&&link.charCodeAt(i)<127){
-    kelime+=link.charAt(i);
-        }
-}
-let outputLink=document.getElementById("myP")
-outputLink.innerHTML = ( kelime );
-outputLink.href=(kelime);
+  output.textContent = url || text;
+  if (url) {
+    output.href = url;
+  } else {
+    output.removeAttribute("href");
   }
+}
 
 function copyToClipboard() {
-    
-    var copyText = document.getElementById("myP");
-    
+  const text = output.textContent;
+  if (!text) {
+    alert("ÖNCE EMOJİLERİ SİL");
+    return;
+  }
 
-    navigator.clipboard
-    .writeText(copyText)
+  navigator.clipboard
+    .writeText(text)
     .then(() => {
-      alert(copyText +" PANOYA KOPYALANDI");
+      alert(text + " PANOYA KOPYALANDI");
     })
     .catch(() => {
-      alert("BIR SEYLER YANLIS GITTI");
+      alert("BİR ŞEYLER YANLIŞ GİTTİ");
     });
 }
-
-
-
-
-
-
-
