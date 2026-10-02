@@ -1,24 +1,22 @@
-body{
+body {
     padding: 10px;
     width: 200px;
-    max-width: 200px;
     display: grid;
-    grid-template-columns: 1;
+    grid-template-columns: 1fr;
     row-gap: 5px;
 }
-button{
+
+button,
+input {
     border-radius: 9999px;
     padding: 5px;
-    max-width: 200px;
 }
-button:hover{
+
+button:hover {
     background-color: darkcyan;
     color: white;
 }
-input{
-    border-radius: 9999px;
-    padding: 5px;
-    max-width: 200px;
-}
-a{word-break: break-all;
+
+a {
+    word-break: break-all;
 }
